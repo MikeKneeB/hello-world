@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository.
+
+Mike is a total dweeb.
